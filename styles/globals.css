@@ -1,4 +1,6 @@
-html,
+@tailwind base;
+@tailwind utilities;
+@tailwind components;html,
 body {
   padding: 0;
   margin: 0;
