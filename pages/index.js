@@ -1,3 +1,4 @@
+/* eslint-disable tailwindcss/classnames-order */
 /* eslint-disable react/no-unknown-property */
 import Head from 'next/head'
 import Image from 'next/image'
