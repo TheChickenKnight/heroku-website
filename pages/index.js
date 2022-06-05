@@ -10,8 +10,8 @@ export default function Home() {
         <title>Home Page</title>
         <meta name="description" content="website yes" />
       </Head>
-      <button class="hover:bg-gray-300 hover:text-violet-600 bg-white pb-2 pt-1 px-3 focus:font-bold focus:text-violet-600 focus:bg-gray-400 disabled:scale-0">
-        among us?
+      <button class="hover:bg-gray-300 hover:text-violet-600 bg-white pb-2 pt-1 px-3 focus:font-bold active:bg-gray-400 active:scale-105">
+        me when the the me when the the
       </button>
     </div>
   )
